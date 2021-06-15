@@ -31,3 +31,14 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
   - There are 90,398 positions that are going to be vacated. This is a large impacct... (Check the current_emp vs retiring employees tables. Something feels off. Total of current_emp should be > than retiring employees.)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  - Yes, There are more than enough Senior level, retirement-ready employees to mentor up and coming PH employees.
+
+Additionally, PH should be aware that while the retirees being used for mentorship have been hired over a 17 year period, they are likely all to be retiring within 4 years of each other. This means, that if they can prioritize mentors that have been at PH longer, that will likely be better for knowledge transfer. See the tables below.
+
+Retirees by Hire Year:
+
+![Hires by Year](https://user-images.githubusercontent.com/40553064/121987239-b6f38f80-cd5d-11eb-93df-8510ee76edf2.PNG)
+
+Retirees by Birth Year:
+
+![image](https://user-images.githubusercontent.com/40553064/121988983-f2438d80-cd60-11eb-8cb8-0ac670762176.png)
